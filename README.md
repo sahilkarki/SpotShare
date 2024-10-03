@@ -26,4 +26,4 @@ SpotShare is a web application designed to simplify parking in urban and suburba
 - **APIs**: Google Maps API, Payment Gateway API integration, and Transit API.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+This project is licensed under the GNU GPL v3.0 License. See the LICENSE.md file for details.
